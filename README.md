@@ -1,5 +1,5 @@
 # Juan Caballero
-## Ingeniero en Sistemas y Computación
+## Ingeniero de Sistemas y Computación
 
 ### 💫 About Me:
 ¡Hola y bienvenidos a mi perfil de GitHub!<br><br>Soy un ingeniero en sistemas y computación, originario de Panamá, poseo habilidades técnicas y conocimientos para contribuir eficazmente en el mundo tecnológico. <br><br>Mi motivación proviene de la sed de conocimiento y la ambición por participar en proyectos desafiantes y emocionantes. Estoy siempre en busca de oportunidades para aplicar mis habilidades técnicas y creativas, contribuyendo así al desarrollo de soluciones efectivas y eficientes.<br><br>Mi enfoque va más allá de simplemente escribir código; se trata de comprender las necesidades del usuario, diseñar soluciones elegantes y funcionales, y trabajar en equipo para alcanzar metas comunes. Mi objetivo es no solo aprender de cada experiencia, sino también aportar valor y marcar la diferencia en cada proyecto en el que participo.<br><br>Estoy emocionado por las oportunidades que el futuro tiene reservadas y estoy listo para enfrentar nuevos desafíos y crecer profesionalmente.<br>
